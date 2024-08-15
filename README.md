@@ -38,8 +38,11 @@ cd $CFS/$PROJECT_ID/users/$USERNAME/huggingface-transformers
 conda activate huggingface
 ```
 
-## Start up 
-
+In the future, you can get setup by logging into Perlmutter and running the following command: 
 ```
 source ~/env_hugging_face
 ```
+
+## Resources
+
+- [Hugging Face Model Hub](https://huggingface.co/models)
